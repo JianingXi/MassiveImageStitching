@@ -54,5 +54,3 @@ def trim_white_border(image_path, output_path):
         print(f"An error occurred: {e}")
 
 
-# 示例使用
-trim_white_border("output_image.jpg", "output_image1.jpg")
