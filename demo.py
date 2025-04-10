@@ -3,8 +3,8 @@ from cut_white_margin_img import trim_white_border
 
 
 
-input_dir = r'C:\Users\xijia\Downloads\思政案例\test4'
-mid_pic = r'C:\Users\xijia\Downloads\思政案例\test444.png'
+input_dir = r'C:\新建文件夹'
+mid_pic = r'C:\新建文件夹4.png'
 output_pic = mid_pic
 
 
