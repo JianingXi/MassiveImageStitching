@@ -69,8 +69,8 @@ def concatenate_images_horizontally(folder_path, output_path='output.jpg'):
 
 
 if __name__ == "__main__":
-    folder_path = r"C:\Users\xijia\Desktop\新建文件夹"
-    output_path = r"C:\Users\xijia\Desktop\拼接结果.jpg"
+    folder_path = r"C:\Users\xijia\Desktop\笨笨论文revision最终版\output_crops2"
+    output_path = "./comfig02.jpg"
 
     if not os.path.exists(folder_path):
         print(f"错误：文件夹不存在 - {folder_path}")
